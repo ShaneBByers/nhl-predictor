@@ -1,0 +1,3 @@
+[submodule "nhl-predictor-server"]
+	path = nhl-predictor-server
+	url = https://github.com/ShaneBByers/nhl-predictor-server.git
